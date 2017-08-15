@@ -1,2 +1,0 @@
-# cplusplus
-learning c++ primer
